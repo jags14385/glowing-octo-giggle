@@ -1,0 +1,11 @@
+{
+  "name": "glowing-octo-giggle",
+  "version": "1.0.0",
+  "main": "",
+  "repository": "https://github.com/jags14385/glowing-octo-giggle",
+  "author": "Jags <git@jagannath.dev>",
+  "license": "",
+  "devDependencies": {
+    "@playwright/test": "^1.37.0"
+  }
+}
